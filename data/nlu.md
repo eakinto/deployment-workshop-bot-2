@@ -11,6 +11,7 @@
 - goodbye
 - see you around
 - see you later
+- sad
 
 ## intent:affirm
 - yes
@@ -39,7 +40,6 @@
 - awesome
 
 ## intent:mood_unhappy
-- sad
 - very sad
 - unhappy
 - bad
